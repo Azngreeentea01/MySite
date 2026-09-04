@@ -1,0 +1,9 @@
+01_title.png|meanLuma=0.3234|brightPct=1.07|clipPct=0.01|darkPct=18.19|meanSat=0.0618|topLuma=0.4497|centerLuma=0.3840
+02_emberwatch_opening.png|meanLuma=0.3540|brightPct=0.00|clipPct=0.00|darkPct=26.46|meanSat=0.0509|topLuma=0.2729|centerLuma=0.5026
+03_emberwatch_exploration.png|meanLuma=0.5727|brightPct=0.64|clipPct=0.64|darkPct=2.10|meanSat=0.0796|topLuma=0.4830|centerLuma=0.6076
+04_ashroad_exploration.png|meanLuma=0.3163|brightPct=0.00|clipPct=0.00|darkPct=14.63|meanSat=0.0584|topLuma=0.3348|centerLuma=0.2537
+05_road_encounter.png|meanLuma=0.3445|brightPct=0.00|clipPct=0.00|darkPct=14.77|meanSat=0.0486|topLuma=0.5226|centerLuma=0.4214
+06_old_veil_exploration.png|meanLuma=0.3054|brightPct=0.01|clipPct=0.00|darkPct=4.86|meanSat=0.0699|topLuma=0.3312|centerLuma=0.2018
+07_veyr_intro.png|meanLuma=0.3494|brightPct=14.02|clipPct=0.00|darkPct=16.96|meanSat=0.0901|topLuma=0.3733|centerLuma=0.3019
+08_veyr_battle.png|meanLuma=0.5574|brightPct=28.89|clipPct=2.50|darkPct=1.77|meanSat=0.1074|topLuma=0.5827|centerLuma=0.4896
+09_vessel_awakening.png|meanLuma=0.6079|brightPct=24.06|clipPct=2.00|darkPct=1.34|meanSat=0.0931|topLuma=0.6731|centerLuma=0.7608
