@@ -1,9 +1,9 @@
 01_title.png|meanLuma=0.4740|brightPct=12.16|clipPct=0.01|darkPct=8.84|meanSat=0.0970|topLuma=0.6007|centerLuma=0.5700
 02_emberwatch_opening.png|meanLuma=0.2010|brightPct=0.00|clipPct=0.00|darkPct=48.53|meanSat=0.0286|topLuma=0.1425|centerLuma=0.3009
 03_emberwatch_exploration.png|meanLuma=0.3353|brightPct=0.63|clipPct=0.00|darkPct=8.55|meanSat=0.0542|topLuma=0.2644|centerLuma=0.3636
-04_ashroad_exploration.png|meanLuma=0.4724|brightPct=1.56|clipPct=0.00|darkPct=9.44|meanSat=0.0975|topLuma=0.4746|centerLuma=0.4074
-05_road_encounter.png|meanLuma=0.6076|brightPct=24.81|clipPct=0.01|darkPct=9.35|meanSat=0.0754|topLuma=0.7749|centerLuma=0.7669
-06_old_veil_exploration.png|meanLuma=0.0053|brightPct=0.01|clipPct=0.00|darkPct=99.09|meanSat=0.0043|topLuma=0.0116|centerLuma=0.0010
-07_veyr_intro.png|meanLuma=0.0102|brightPct=0.00|clipPct=0.00|darkPct=96.92|meanSat=0.0153|topLuma=0.0128|centerLuma=0.0006
-08_veyr_battle.png|meanLuma=0.4738|brightPct=25.67|clipPct=19.67|darkPct=21.42|meanSat=0.2521|topLuma=0.3479|centerLuma=0.3836
-09_vessel_awakening.png|meanLuma=0.6246|brightPct=44.78|clipPct=33.47|darkPct=4.38|meanSat=0.2408|topLuma=0.6655|centerLuma=0.8662
+04_ashroad_exploration.png|meanLuma=0.4724|brightPct=1.56|clipPct=0.00|darkPct=9.44|meanSat=0.0976|topLuma=0.4746|centerLuma=0.4073
+05_road_encounter.png|meanLuma=0.5410|brightPct=13.04|clipPct=0.01|darkPct=10.03|meanSat=0.0596|topLuma=0.7221|centerLuma=0.6852
+06_old_veil_exploration.png|meanLuma=0.4268|brightPct=0.01|clipPct=0.00|darkPct=4.09|meanSat=0.1266|topLuma=0.4541|centerLuma=0.2940
+07_veyr_intro.png|meanLuma=0.2621|brightPct=5.57|clipPct=0.00|darkPct=23.10|meanSat=0.1276|topLuma=0.2940|centerLuma=0.1991
+08_veyr_battle.png|meanLuma=0.4395|brightPct=14.94|clipPct=1.90|darkPct=7.96|meanSat=0.1590|topLuma=0.4748|centerLuma=0.3612
+09_vessel_awakening.png|meanLuma=0.4952|brightPct=16.43|clipPct=1.60|darkPct=14.71|meanSat=0.1446|topLuma=0.5643|centerLuma=0.6391
